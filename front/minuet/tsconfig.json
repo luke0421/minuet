@@ -1,0 +1,7 @@
+{
+  "compilerOptions": { "target": "es5",
+  "jsx": "react", // 또는 프로젝트의 JSX 변환 설정에 따라 'preserve'로 설정
+  "module": "commonjs",},
+  "extends": "expo/tsconfig.base"
+
+}

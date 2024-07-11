@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "67838482111",
+    "project_id": "expopushnotification-f9247",
+    "storage_bucket": "expopushnotification-f9247.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:67838482111:android:b2e380f91904f98b4f580a",
+        "android_client_info": {
+          "package_name": "com.minuet.www"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJJgxCV8bmEDgiLjAsGY8qXiImcQjjrMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
